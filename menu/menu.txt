@@ -1,11 +1,10 @@
 bread
-pie
-omlette
-Strawberry Pie
-lemonade
-pn
-pancakes
 ciorba
+lemonade
 Omelette
-
+omlette
+pancakes
+pie
+pn
+Strawberry Pie
 tarta
