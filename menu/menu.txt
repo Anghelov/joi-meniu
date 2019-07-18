@@ -8,3 +8,4 @@ pancakes
 ciorba
 Omelette
 
+tarta
