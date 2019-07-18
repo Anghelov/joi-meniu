@@ -2,11 +2,10 @@ Audi
 bread
 chocolate soup
 ciorba
-cheesecake
+cookies
 fruitTea
 ice-cream
 lemonade
-Omelette
 omlette
 pancakes
 paste
@@ -15,5 +14,4 @@ pn
 soup
 Strawberry Pie
 tarta
-
 
