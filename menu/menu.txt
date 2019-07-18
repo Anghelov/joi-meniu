@@ -3,12 +3,14 @@ bread
 chocolate soup
 ciorba
 cookies
+fruitTea
 lemonade
 omlette
 pancakes
 paste
 pie
 pn
+soup
 Strawberry Pie
 tarta
 
