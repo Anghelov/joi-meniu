@@ -1,6 +1,7 @@
 bread
 ciorba
 lemonade
+milkshake
 Omelette
 omlette
 pancakes
