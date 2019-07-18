@@ -1,12 +1,17 @@
 bread
+chocolate soup
 ciorba
 cheesecake
+
+fruitTea
 gin
 lemonade
 Omelette
 omlette
 pancakes
+paste
 pie
 pn
+soup
 Strawberry Pie
 tarta
