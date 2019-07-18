@@ -1,5 +1,6 @@
 bread
 ciorba
+fruitTea
 lemonade
 Omelette
 omlette
