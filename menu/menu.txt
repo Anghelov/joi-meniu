@@ -3,6 +3,7 @@ bread
 chocolate soup
 ciorba
 cheesecake
+fruitTea
 lemonade
 Omelette
 omlette
