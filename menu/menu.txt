@@ -1,4 +1,5 @@
 bread
+cheesecake
 chocolate soup
 ciorba
 cookies
@@ -6,11 +7,8 @@ fruitTea
 gin
 ice-cream
 lemonade
-<<<<<<< HEAD
 milkshake
 Omelette
-=======
->>>>>>> 33caa23299484f0e79e2df2bdfb2f2308a475857
 omlette
 pancakes
 paste
