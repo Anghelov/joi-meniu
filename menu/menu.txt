@@ -1,4 +1,6 @@
+Audi
 bread
+chocolate soup
 ciorba
 cheesecake
 fruitTea
@@ -6,6 +8,7 @@ lemonade
 Omelette
 omlette
 pancakes
+paste
 pie
 pn
 Strawberry Pie
