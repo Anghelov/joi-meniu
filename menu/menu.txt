@@ -2,6 +2,7 @@ bread
 ciorba
 ice-cream
 lemonade
+Omelette
 omlette
 pancakes
 pie
