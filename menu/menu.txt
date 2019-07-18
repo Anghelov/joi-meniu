@@ -6,5 +6,6 @@ omlette
 pancakes
 pie
 pn
+soup
 Strawberry Pie
 tarta
