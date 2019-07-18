@@ -1,12 +1,20 @@
+Audi
 bread
+chocolate soup
 ciorba
+cheesecake
+fruitTea
+
 ice-cream
 lemonade
 Omelette
 omlette
 pancakes
+paste
 pie
 pn
+soup
 Strawberry Pie
 tarta
+
 
