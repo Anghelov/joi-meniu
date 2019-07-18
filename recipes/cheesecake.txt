@@ -1,4 +1,3 @@
-milk
-sugar
-flour
-cocoa
+eggs
+cheese
+water
