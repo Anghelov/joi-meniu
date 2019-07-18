@@ -1,5 +1,5 @@
-<<<<<<< .merge_file_a01192
 bread
-=======
-pieomlette
->>>>>>> .merge_file_a06972
+pie
+omlette
+Strawberry Pie
+lemonade
