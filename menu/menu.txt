@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Strawberry Pie
+=======
+lemonade
+>>>>>>> 30e1b78dc3fbc7303e5b11545754042afbd522c7
