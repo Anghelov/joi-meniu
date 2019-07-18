@@ -4,6 +4,7 @@ lemonade
 Omelette
 omlette
 pancakes
+paste
 pie
 pn
 Strawberry Pie
