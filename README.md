@@ -14,5 +14,5 @@ We offer special drinks
 
 ## About us
 
-[Our history](..//blob/history.md)
+[Our history](history.md)
 
