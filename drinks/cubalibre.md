@@ -1,7 +1,7 @@
 # Cuba libre
 ### The national drink of Cuba celebrating its independence. There's more to it than just cola, rum and lime; it's the way you make it.
 
-![alt text](/drinks/cubalibre.jpg)
+![alt text](../images/cubalibre.jpg)
 
 ## Equipment
 #### Long glass
