@@ -17,4 +17,4 @@
 #### 2.Squeeze and drop 2 lime wedges into the glass, coating the ice well with the juices (it all makes a difference)
 #### 3.Pour in the Bacardi Oro, top up with chilled cola and stir gently
 
-#Price: 10 Euro 
+# Price: 10 Euro 
