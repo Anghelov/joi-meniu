@@ -1,9 +1,14 @@
 Ingrediente:
-Carne
-paste
-bulion
-sare
-apa
-legume
++ Paste
++ Carne
++ Bulion
++ Sare
++ Legume  
++ Apa
 
-Pret: 10 lei/portie
+
+
+![alt text](..\images\paste.jpg)
+
+
+Pret : 10 lei
