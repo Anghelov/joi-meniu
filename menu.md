@@ -22,6 +22,7 @@
 3. dry martini
 4. soft drinks
 5. cuba libre
+6. [mint lemonade] (./drinks/mint-lemonade.md)
 
 
 
