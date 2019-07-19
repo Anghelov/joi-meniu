@@ -12,4 +12,6 @@ Contains:
 * jacked potatoes
 * oil
 
+PRICE: 20 EURO
+
 
