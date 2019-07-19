@@ -1,5 +1,9 @@
 # Dishes
 
+## Cooked dish
+
+1. [Baked Potato](../dishes/dish1.md)
+
 ## Classic salads
 
 1. chef salad
@@ -26,7 +30,7 @@
 =======
 5. cuba libre
 6. [mint lemonade](./drinks/mint-lemonade.md)
-
+7. [Pina Colada](./drinks/pinacolada.md)
 
 
 

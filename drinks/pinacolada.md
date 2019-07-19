@@ -6,4 +6,4 @@
 ![alt text](../images/pina-colada.jpg)
 
 Price 15 RON
-[Menu](../joi-meniu/menu.md)
+[Menu](./joi-meniu/menu.md)
