@@ -6,7 +6,7 @@
 
 Check out our exquisite menu
 
-(TODO: link to menu)
+[Menu](menu.md)
 
 ## Drinks
 
@@ -14,5 +14,5 @@ We offer special drinks
 
 ## About us
 
-[Our history](history.md)
+...
 
