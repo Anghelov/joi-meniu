@@ -10,3 +10,4 @@
 
 ###### ........................
 
+![alt text](https://github.com/dezGusty/joi-meniu/blob/add-dish4/images/pastrama-de-oaie-la-tigaie.jpg "Istorie-n farfurie")
