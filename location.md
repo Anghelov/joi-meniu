@@ -1,6 +1,6 @@
-#Location 
+#FindUs!
 
-![Find us!](..\images\locatie.png)
+![Find us!](...\images\locatie.png)
 
 You can find us on W Bullard Ave,Fresno,CA near Dutch Bros 
 
