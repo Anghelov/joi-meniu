@@ -21,4 +21,13 @@
 2. margarita
 3. dry martini
 4. soft drinks
+<<<<<<< HEAD
 5. [cuba libre](./drinks/cubalibre.md)
+=======
+5. cuba libre
+6. [mint lemonade](./drinks/mint-lemonade.md)
+
+
+
+
+>>>>>>> a14e04beec2e23b852859a7c98708357672d69ef
