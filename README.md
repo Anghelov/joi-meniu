@@ -6,7 +6,7 @@
 
 Check out our exquisite menu
 
-[Dish 4](dish4.md)
+[Dish 4](../dishes/dish4.md)
 
 ## Drinks
 
@@ -14,5 +14,5 @@ We offer special drinks
 
 ## About us
 
-[Our history](dishes\history.md)
+[Our history](history.md)
 
