@@ -1,5 +1,9 @@
 # Dishes
 
+## Cooked dish
+
+1. [Baked Potato](../dishes/dish1.md)
+
 ## Classic salads
 
 1. chef salad
