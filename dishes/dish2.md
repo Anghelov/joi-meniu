@@ -1,6 +1,6 @@
-#H1 Pui dulce acrisor
+# Pui dulce acrisor
 
-![pui dulce acrisor](vineri_meniu\joi-meniu\images\pui-dulce-acrisor.jpg)
+![pui dulce acrisor](../images/pui-dulce-acrisor.jpg)
 
 ingrediente 
 pui - 200g
