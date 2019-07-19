@@ -3,12 +3,13 @@
 ![potatoes](../images/baked_potato.jpg)
 
 Contains:
-	- chilli
-	- onions
-	- garlic
-	- tomato puree
-	- smoked bacon
-	- jacked potatoes
-	- oil
-	
-![You can find our recipe here!](https://www.bbcgoodfood.com/recipes/baked-chilli-jacket-potatoes)
+
+* chilli
+* onions
+* garlic
+* tomato puree
+* smoked bacon
+* jacked potatoes
+* oil
+
+
