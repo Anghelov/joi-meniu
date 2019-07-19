@@ -1,6 +1,6 @@
 # Baked Potatoes
 
-![potatoes](../images/baked-potato.jpg)
+![potatoes](../images/baked_potato.jpg)
 
 Contains:
 	- chilli
