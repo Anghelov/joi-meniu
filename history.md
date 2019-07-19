@@ -1,3 +1,4 @@
+			About us
 In 2014 a avut loc marea deschidere a restaurantului. Marcata in istoria noastra,
 ziua de 24 august ne-a adus primii clienti care au fost placut impresionati de noi.
 Restaurantul a luat nastere din initiativa lui Preda Augustin. Acesta a reusit pana
