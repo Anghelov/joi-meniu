@@ -27,7 +27,7 @@
 4. soft drinks
 5. cuba libre
 6. [mint lemonade](./drinks/mint-lemonade.md)
-7. [Pina Colada](./drinks/pinacolada.md
+7. [Pina Colada](./drinks/pinacolada.md)
 
 
 
