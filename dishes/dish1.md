@@ -3,7 +3,7 @@
 ![potatoes](../images/baked_potato.jpg)
 
 Contains:
-<<<<<<< HEAD
+
 * chilli
 * onions
 * garlic
