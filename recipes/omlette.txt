@@ -1,5 +1,0 @@
-eggs
-milk
-salt
-piper
-bacon
