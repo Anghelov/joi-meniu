@@ -6,7 +6,7 @@
 
 Check out our exquisite menu
 
-[Dish 4](../dishes/dish4.md)
+[Dish 4](dishes/dish4.md)
 
 ## Drinks
 
