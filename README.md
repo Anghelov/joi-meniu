@@ -14,5 +14,5 @@ We offer special drinks
 
 ## About us
 
-[Our history](https://github.com/dezGusty/joi-meniu/blob/add-history-page/history.md)
+[Our history](../history.md)
 
